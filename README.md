@@ -97,7 +97,7 @@ git clone https://github.com/shubhsalunke/react-node-mysql-crud.git
 # Step 2: Go to Project Folder
 
 ```bash
-cd user-crud-project
+cd react-node-mysql-crud
 ```
 
 ---
