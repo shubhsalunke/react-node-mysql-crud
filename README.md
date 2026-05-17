@@ -111,7 +111,7 @@ ls
 Expected:
 
 ```text
-backend  frontend  ops  .env
+backend  frontend  ops  sample.env
 ```
 
 ---
@@ -179,7 +179,7 @@ ls
 Expected:
 
 ```text
-Dockerfile  package.json  src
+Dockerfile  index.html  package.json  src
 ```
 
 ---
