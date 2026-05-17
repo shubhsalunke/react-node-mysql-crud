@@ -89,7 +89,7 @@ docker run hello-world
 # Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/shubhsalunke/RPI.git
+git clone https://github.com/shubhsalunke/react-node-mysql-crud.git
 ```
 
 ---
